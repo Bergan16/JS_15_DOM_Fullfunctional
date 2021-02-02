@@ -1,0 +1,16 @@
+body{
+	background-color: lightgrey;
+}
+/* color for my section with buttons*/
+.sectioncolor{
+	background-color:white;
+	border-radius: 25px;
+}
+/*margin*/
+.sectionmargin{
+	margin:50px;
+}
+/*container padding*/
+.containerpadding{
+	padding:20px;
+}
