@@ -1,0 +1,20 @@
+body{
+	background-color: lightgrey;
+}
+.sectioncolor{
+	background-color:white;
+	border-radius: 25px;
+}
+.sectionmargin{
+	margin:50px;
+}
+.containerpadding{
+	padding:20px;
+}
+/* different background colors*/
+.greenbg{
+	background-color: green;
+}
+.redbg{
+	background-color: red;
+}
